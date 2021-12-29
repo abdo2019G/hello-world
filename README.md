@@ -1,4 +1,2 @@
 # hello-world
-just new one 
-hi humans!
-how are you?
+my first file on github
